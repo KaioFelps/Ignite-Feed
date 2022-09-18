@@ -1,6 +1,7 @@
 {
   "name": "fundamentos-reactts",
   "private": true,
+  "homepage": "https://kaiofelps.github.io/Ignite-Feed",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
